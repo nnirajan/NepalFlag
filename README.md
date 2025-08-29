@@ -6,11 +6,11 @@ Nothing quite like our distinctive double-triangle design with the crescent moon
 
 ## ✨ Features
 
-- 🎨 **Design**: Double-triangle shape, the only non-rectangular national flag in the world.
-- 🌙 **Moon Crescent**: Crescent moon with star overlay.
-- ☀️ **Sun Symbol**: Traditional sun emblem rendered with a custom star shape.
-- 🌊 **Wave Animation**: Realistic flag waving effect with configurable speed, frequency, and amplitude.
-- ⚡️ **Metal Shaders**: GPU-powered rendering for smooth and natural wave animation.
+- **Design**: Double-triangle shape, the only non-rectangular national flag in the world.
+- **Moon Crescent**: Crescent moon with star overlay.
+- **Sun Symbol**: Traditional sun emblem rendered with a custom star shape.
+- **Wave Animation**: Realistic flag waving effect with configurable speed, frequency, and amplitude.
+- **Metal Shaders**: GPU-powered rendering for smooth and natural wave animation.
 
 ## 📸 Demo
 
